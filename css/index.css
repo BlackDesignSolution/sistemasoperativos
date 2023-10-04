@@ -1,0 +1,14 @@
+.inicio{
+    --opacidad-negro: 0.3;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/portada.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 42rem;
+}
+
+.osojr{
+    .texto{
+        font-size: 1.2rem;
+        color: blue;
+    }
+}
